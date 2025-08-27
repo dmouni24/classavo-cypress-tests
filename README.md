@@ -8,6 +8,14 @@ This repository contains Cypress tests that simulate a simplified student flow:
 
 > **Note:** There is no UI implementation here; network calls are stubbed using `cy.intercept`. Selectors like `data-cy="..."" are assumed to exist in the app.
 
+---
+
+## Important Submission Note
+I initially developed this project locally, then copied the final files into GitHub UI for submission.  
+The repository is fully runnable if you clone or download as a ZIP.
+
+---
+
 ## Structure
 cypress/
 e2e/
